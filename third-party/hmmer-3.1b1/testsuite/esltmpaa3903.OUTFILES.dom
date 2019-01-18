@@ -1,0 +1,15 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+test1                -             20 test                 -             20   1.7e-16   45.9  11.4   1   2   2.2e-09   2.2e-09   23.1   1.0     1     9     1     9     1     9 0.98 -
+test1                -             20 test                 -             20   1.7e-16   45.9  11.4   2   2   5.3e-11   5.3e-11   28.3   3.6    11    20    11    20    11    20 0.99 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      ./../testsuite/20aa.hmm
+# Target file:     esltmpaa3903.OUTFILES.1
+# Option settings: ../src/hmmsearch --domtblout esltmpaa3903.OUTFILES.dom ./../testsuite/20aa.hmm esltmpaa3903.OUTFILES.1 
+# Current dir:     /wehisan/home/allstaff/t/tonkin-hill.g/rask_based_block_finder2.0/third-party/hmmer-3.1b1/testsuite
+# Date:            Sat Dec  6 18:41:38 2014
+# [ok]
