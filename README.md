@@ -15,3 +15,12 @@ Options:
   -o OUTDIR, --outdir=OUTDIR
                         the output directory for files
 ```
+
+### reads_to_domains.py
+```
+Options:
+  -h, --help            show this help message and exit
+  --hmm=HMMOUT          the nhmmOut file from running allocate_reads.py
+  -o OUTFILE, --out=OUTFILE
+                        the location of an output file
+```
