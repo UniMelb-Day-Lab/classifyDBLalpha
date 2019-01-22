@@ -1,5 +1,5 @@
 # Allocate NGS reads to protein domains
-This python program wraps Uproc and HMMER3 allowing for the fast identification of NGS reads that belong to HMMER PHMMs. It was designed to be used with the protein domains of the Plasmodium falciparum VAR gene family but could be used for other domain models. By leverageing the speed of Uproc and the sensitivity of HMMER we are able to quickly annotate longer reads to smaller domain profiles. The code has been moved over from https://github.com/PapenfussLab/reads_to_domains.
+This python program wraps Uproc and HMMER3 allowing for the fast identification of NGS reads that belong to HMMER PHMMs. It was designed to be used with the protein domains of the Plasmodium falciparum VAR gene family but could be used for other domain models. By leverageing the speed of Uproc and the sensitivity of HMMER we are able to quickly annotate longer reads to smaller domain profiles. The code has been moved over from https://github.com/PapenfussLab/reads_to_domains. If you use this code in a publication please cite http://dx.doi.org/10.1038/s41598-017-11814-9.
 
 
 ### allocate_reads.py
