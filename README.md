@@ -24,3 +24,12 @@ Options:
   -o OUTFILE, --out=OUTFILE
                         the location of an output file
 ```
+
+### Installation
+
+The above scripts rely on the Mungo python library. It can be downloaded from https://github.com/PapenfussLab/Mungo.
+After unzipping the repository the library can be installed locally by running the following command form within the Mungo folder
+
+```
+python setup.py install --user
+```
